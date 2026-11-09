@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-labelledby="title desc">
+  <title id="title">Raghav Raman</title>
+  <desc id="desc">Data systems, useful software, practical AI.</desc>
+  <defs><clipPath id="frame"><rect width="600" height="310" rx="18"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="600" height="310" fill="#F2EFE8"/>
+    <rect x="36" y="42" width="5" height="37" rx="2.5" fill="#BC6C4A"/>
+    <text x="56" y="57" fill="#7B766D" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.3">ENGINEER  /  BUILDER</text>
+    <text x="36" y="137" fill="#20211F" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-3">Raghav Raman</text>
+    <text x="39" y="185" fill="#5F625D" font-family="Arial, Helvetica, sans-serif" font-size="22">Data systems. Useful software.</text>
+    <text x="39" y="215" fill="#5F625D" font-family="Arial, Helvetica, sans-serif" font-size="22">Practical AI.</text>
+    <path d="M39 248H561" stroke="#D1CBC1"/>
+    <text x="39" y="277" fill="#89857E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">MUMBAI, INDIA</text>
+    <circle cx="552" cy="273" r="9" fill="#BC6C4A"/>
+  </g>
+</svg>

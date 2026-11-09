@@ -1,49 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
   <title id="title">Raghav Raman</title>
-  <desc id="desc">Abstract data paths on a dark background, with the words Data, Systems, and Software.</desc>
+  <desc id="desc">A warm, minimal profile banner with modern line icons for data, software, and AI.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="0.56" stop-color="#102238"/>
-      <stop offset="1" stop-color="#113B49"/>
-    </linearGradient>
-    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#5EEAD4"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#A7C7D5" stroke-opacity=".075"/>
-    </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="12"/>
-    </filter>
-    <clipPath id="clip"><rect width="1200" height="280" rx="20"/></clipPath>
+    <clipPath id="frame"><rect width="1200" height="250" rx="18"/></clipPath>
   </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="280" fill="url(#background)"/>
-    <rect width="1200" height="280" fill="url(#grid)"/>
-    <circle cx="1072" cy="112" r="125" fill="#0D9488" opacity=".17" filter="url(#glow)"/>
-    <circle cx="868" cy="237" r="95" fill="#0284C7" opacity=".12" filter="url(#glow)"/>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="250" fill="#F2EFE8"/>
+    <path d="M0 249.5H1200" stroke="#D8D3CA"/>
+    <rect x="48" y="45" width="5" height="39" rx="2.5" fill="#BC6C4A"/>
+    <text x="69" y="60" fill="#7B766D" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.4">ENGINEER  /  BUILDER</text>
+    <text x="48" y="141" fill="#20211F" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-3">Raghav Raman</text>
+    <text x="50" y="186" fill="#5F625D" font-family="Arial, Helvetica, sans-serif" font-size="20">Data systems, useful software, practical AI.</text>
+    <path d="M50 211H665" stroke="#D1CBC1"/>
+    <text x="50" y="233" fill="#89857E" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">MUMBAI, INDIA</text>
 
-    <path d="M660 216h82c36 0 36-79 72-79h84c41 0 41-62 82-62h166" fill="none" stroke="#5EEAD4" stroke-opacity=".21" stroke-width="2"/>
-    <path d="M720 247h112c36 0 36-60 72-60h105c34 0 34-49 68-49h97" fill="none" stroke="#38BDF8" stroke-opacity=".29" stroke-width="2"/>
-    <path d="M746 52h120c41 0 41 65 82 65h115c30 0 30 68 60 68h77" fill="none" stroke="#38BDF8" stroke-opacity=".2" stroke-width="2"/>
-
-    <g fill="#5EEAD4">
-      <circle cx="814" cy="137" r="5"/><circle cx="980" cy="75" r="5"/>
-      <circle cx="904" cy="187" r="5"/><circle cx="1077" cy="138" r="5"/>
+    <g fill="#252725">
+      <rect x="779" y="50" width="112" height="150" rx="16"/>
+      <rect x="902" y="50" width="112" height="150" rx="16"/>
+      <rect x="1025" y="50" width="112" height="150" rx="16"/>
     </g>
-    <g fill="#38BDF8"><circle cx="866" cy="52" r="4"/><circle cx="1063" cy="117" r="4"/></g>
-    <g fill="none" stroke="url(#signal)" stroke-width="2">
-      <rect x="961" y="56" width="38" height="38" rx="10" transform="rotate(45 980 75)"/>
-      <rect x="1056" y="117" width="42" height="42" rx="10" transform="rotate(45 1077 138)"/>
+    <g fill="none" stroke="#F2EFE8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <ellipse cx="835" cy="97" rx="22" ry="8"/>
+      <path d="M813 97v34c0 4.5 10 8 22 8s22-3.5 22-8V97M813 114c0 4.5 10 8 22 8s22-3.5 22-8"/>
+      <path d="m955 94-18 19 18 19m37-38 18 19-18 19m-13-42-11 48"/>
+      <circle cx="1081" cy="90" r="7"/><circle cx="1057" cy="124" r="7"/><circle cx="1105" cy="124" r="7"/>
+      <path d="m1077 96-16 22m24-22 16 22m-37 6h34"/>
     </g>
-
-    <rect x="54" y="49" width="105" height="26" rx="13" fill="#5EEAD4" fill-opacity=".13" stroke="#5EEAD4" stroke-opacity=".32"/>
-    <text x="70" y="67" fill="#89F0E4" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">PORTFOLIO</text>
-    <text x="54" y="138" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">Raghav Raman</text>
-    <rect x="54" y="158" width="51" height="3" rx="1.5" fill="url(#signal)"/>
-    <text x="54" y="207" fill="#B6CEDA" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing=".3">Data <tspan fill="#5EEAD4">/</tspan> Systems <tspan fill="#5EEAD4">/</tspan> Software</text>
-    <text x="54" y="240" fill="#7995A5" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">BUILDING THINGS THAT WORK IN THE REAL WORLD</text>
+    <g fill="#D89978" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" text-anchor="middle">
+      <text x="835" y="174">DATA</text>
+      <text x="958" y="174">CODE</text>
+      <text x="1081" y="174">AI</text>
+    </g>
   </g>
 </svg>

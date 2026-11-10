@@ -11,14 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="https://theraghavraman.github.io/the.raghav.raman/">Portfolio ↗</a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/theraghavraman">LinkedIn ↗</a> &nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0006-6026-0674">ORCID ↗</a>
+  <a href="https://theraghavraman.github.io/the.raghav.raman/"><img src="./assets/cta-portfolio.svg" width="154" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/theraghavraman"><img src="./assets/cta-linkedin.svg" width="154" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://orcid.org/0009-0006-6026-0674"><img src="./assets/cta-orcid.svg" width="154" alt="ORCID" /></a>
 </p>
 
 ---
 
 ## About
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
 
 I work on ETL and data integration, from keeping scheduled loads healthy to designing SCD Type 1/2, file-processing, and hierarchy-parsing pipelines. My day-to-day stack includes Informatica IICS/IDMC, PowerCenter, SSIS, Azure Synapse, Oracle, DB2, and SQL.
 
@@ -26,31 +28,33 @@ Outside work, I build browser-based tools, Python data utilities, and retrieval 
 
 ## Selected work
 
-### [ReData](https://github.com/theraghavraman/redata)
+<img src="./assets/section-rule.svg" width="100%" alt="" />
+
+### ReData
 
 A browser-first analytics workspace powered by local DuckDB. It brings data from databases, S3, and REST APIs into staging tables with full, append, and upsert syncs.
 
-<sub>JavaScript · Python · DuckDB · SQL</sub> &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/redata/) &nbsp;·&nbsp; [DOI ↗](https://doi.org/10.5281/zenodo.23314956)
+<sub>JavaScript · Python · DuckDB · SQL</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/redata) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/redata/) &nbsp;·&nbsp; [DOI ↗](https://doi.org/10.5281/zenodo.23314956)
 
-### [CodeProof](https://github.com/theraghavraman/codeproof)
+### CodeProof
 
 A local-first code verification lab for static checks, sandboxed test runs, Python grammar checks, SBOM generation, and supply-chain audits.
 
-<sub>JavaScript · TypeScript · Pyodide · GitHub Actions</sub> &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/codeproof/)
+<sub>JavaScript · TypeScript · Pyodide · GitHub Actions</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/codeproof) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/codeproof/)
 
-### [OmniConverter Studio](https://github.com/theraghavraman/omni_suite_light)
+### OmniConverter Studio
 
 A private file and data toolkit for PDF, OCR, media, and format conversion in the browser, with optional local Python and desktop engines.
 
-<sub>JavaScript · Python · Electron</sub> &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/omni_suite_light/)
+<sub>JavaScript · Python · Electron</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/omni_suite_light) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/omni_suite_light/)
 
-### [SPACE](https://github.com/theraghavraman/space)
+### SPACE
 
-An interactive observatory for exploring space-mission datasets. <sub>JavaScript</sub> &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/space/)
+An interactive observatory for exploring space-mission datasets. <sub>JavaScript</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/space) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/space/)
 
-### [Rust Atlas](https://github.com/theraghavraman/rustatlas)
+### Rust Atlas
 
-A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/rustatlas/)
+A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/rustatlas) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/rustatlas/)
 
 <details>
   <summary><strong>More things I've built</strong></summary>
@@ -65,6 +69,8 @@ A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &n
 </details>
 
 ## Toolbox
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
 
 <p><strong>Data engineering</strong></p>
 
@@ -121,6 +127,8 @@ A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &n
 </table>
 
 ## Credentials
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
 
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional · Informatica IDMC Foundation
 - Databricks Generative AI Fundamentals · Google Advanced Data Analytics · AWS Cloud Quest: Cloud Practitioner

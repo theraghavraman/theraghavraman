@@ -30,6 +30,14 @@ Outside work, I build browser-based tools, Python data utilities, and retrieval 
 
 <img src="./assets/section-rule.svg" width="100%" alt="" />
 
+### ETLGuard
+
+A Python data-quality toolkit for CSV, Excel and API feeds, with Pydantic validation, rejected-row reports, transactional MySQL loads, SCD Type 2 history and safe batch retries. The live browser demo runs the same validator through Pyodide.
+
+Verified with **137 tests**, **91.19% coverage**, and all four Python 3.11/3.13 × MySQL 8.0/8.4 combinations.
+
+<sub>Python · Pydantic · SQLAlchemy · MySQL · Pytest · Pyodide</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/etl-validation-toolkit) &nbsp;·&nbsp; [Live demo ↗](https://theraghavraman.github.io/etl-validation-toolkit/) &nbsp;·&nbsp; [v0.1.3 downloads ↗](https://github.com/theraghavraman/etl-validation-toolkit/releases/tag/v0.1.3)
+
 ### ReData
 
 A browser-first analytics workspace powered by local DuckDB. It brings data from databases, S3, and REST APIs into staging tables with full, append, and upsert syncs.

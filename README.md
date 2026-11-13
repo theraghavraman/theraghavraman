@@ -82,67 +82,55 @@ A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &n
 
 <p><strong>Data engineering</strong></p>
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="33%"><img src="./assets/icons/informatica.svg" width="34" height="34" alt="Informatica" /><br /><sub>Informatica</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="34" height="34" alt="SSIS" /><br /><sub>SSIS</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="34" height="34" alt="Azure Synapse" /><br /><sub>Synapse</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/talend/FF6D70/FF8D8F" width="34" height="34" alt="Talend" /><br /><sub>Talend</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/snowflake/29B5E8/6DD5F5" width="34" height="34" alt="Snowflake" /><br /><sub>Snowflake</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/databricks/FF3621/FF6B5B" width="34" height="34" alt="Databricks" /><br /><sub>Databricks</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/apachekafka/231F20/F3F4F6" width="34" height="34" alt="Apache Kafka" /><br /><sub>Kafka</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/duckdb/FFF000/FFF000" width="34" height="34" alt="DuckDB" /><br /><sub>DuckDB</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/informatica.svg" width="34" height="34" alt="Informatica" /><br /><sub>Informatica</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="34" height="34" alt="SSIS" /><br /><sub>SSIS</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="34" height="34" alt="Azure Synapse" /><br /><sub>Synapse</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/talend/FF6D70/FF8D8F" width="34" height="34" alt="Talend" /><br /><sub>Talend</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/snowflake/29B5E8/6DD5F5" width="34" height="34" alt="Snowflake" /><br /><sub>Snowflake</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/databricks/FF3621/FF6B5B" width="34" height="34" alt="Databricks" /><br /><sub>Databricks</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/apachekafka/231F20/F3F4F6" width="34" height="34" alt="Apache Kafka" /><br /><sub>Kafka</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/duckdb/FFF000/FFF000" width="34" height="34" alt="DuckDB" /><br /><sub>DuckDB</sub></td>
   </tr>
 </table>
 
 <p><strong>Databases</strong></p>
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="42" height="34" alt="Oracle" /><br /><sub>Oracle</sub></td>
-    <td align="center" width="33%"><img src="./assets/icons/ibm.svg" width="48" height="34" alt="IBM DB2" /><br /><sub>IBM DB2</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="34" height="34" alt="SQL Server" /><br /><sub>SQL Server</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/postgresql/4169E1/84ADFF" width="34" height="34" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/mysql/4479A1/72AFC7" width="34" height="34" alt="MySQL" /><br /><sub>MySQL</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="42" height="34" alt="Oracle" /><br /><sub>Oracle</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/ibm.svg" width="48" height="34" alt="IBM DB2" /><br /><sub>IBM DB2</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="34" height="34" alt="SQL Server" /><br /><sub>SQL Server</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/postgresql/4169E1/84ADFF" width="34" height="34" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/mysql/4479A1/72AFC7" width="34" height="34" alt="MySQL" /><br /><sub>MySQL</sub></td>
   </tr>
 </table>
 
 <p><strong>Python & AI</strong></p>
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/python/3776AB/75A8D3" width="34" height="34" alt="Python" /><br /><sub>Python</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/fastapi/009688/35C3B2" width="34" height="34" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/pydantic/E92063/FF6F9D" width="34" height="34" alt="Pydantic" /><br /><sub>Pydantic</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/langchain/1C3C3C/A7F3D0" width="34" height="34" alt="LangChain" /><br /><sub>LangChain</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/meta/0467DF/73A7FF" width="34" height="34" alt="FAISS" /><br /><sub>FAISS</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/pytest/0A9EDC/67D9F5" width="34" height="34" alt="Pytest" /><br /><sub>Pytest</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/python/3776AB/75A8D3" width="34" height="34" alt="Python" /><br /><sub>Python</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/fastapi/009688/35C3B2" width="34" height="34" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/pydantic/E92063/FF6F9D" width="34" height="34" alt="Pydantic" /><br /><sub>Pydantic</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/1C3C3C/A7F3D0" width="34" height="34" alt="LangChain" /><br /><sub>LangChain</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/meta/0467DF/73A7FF" width="34" height="34" alt="FAISS" /><br /><sub>FAISS</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/pytest/0A9EDC/67D9F5" width="34" height="34" alt="Pytest" /><br /><sub>Pytest</sub></td>
   </tr>
 </table>
 
 <p><strong>Cloud & delivery</strong></p>
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="38" height="34" alt="AWS" /><br /><sub>AWS</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/googlecloud/4285F4/7EADFF" width="34" height="34" alt="Google Cloud" /><br /><sub>Google Cloud</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/docker/2496ED/63B3F4" width="34" height="34" alt="Docker" /><br /><sub>Docker</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/git/F05032/FF8068" width="34" height="34" alt="Git" /><br /><sub>Git</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/linux/FCC624/FCC624" width="34" height="34" alt="Linux" /><br /><sub>Linux</sub></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/githubactions/2088FF/75AEFF" width="34" height="34" alt="GitHub Actions" /><br /><sub>Actions</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="./assets/icons/servicenow.svg" width="34" height="34" alt="ServiceNow" /><br /><sub>ServiceNow</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="38" height="34" alt="AWS" /><br /><sub>AWS</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlecloud/4285F4/7EADFF" width="34" height="34" alt="Google Cloud" /><br /><sub>Google Cloud</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/docker/2496ED/63B3F4" width="34" height="34" alt="Docker" /><br /><sub>Docker</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/git/F05032/FF8068" width="34" height="34" alt="Git" /><br /><sub>Git</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/linux/FCC624/FCC624" width="34" height="34" alt="Linux" /><br /><sub>Linux</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/githubactions/2088FF/75AEFF" width="34" height="34" alt="GitHub Actions" /><br /><sub>Actions</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/servicenow.svg" width="34" height="34" alt="ServiceNow" /><br /><sub>ServiceNow</sub></td>
   </tr>
 </table>
 

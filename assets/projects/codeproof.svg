@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-labelledby="t d">
+<title id="t">CodeProof</title><desc id="d">A shield between code brackets with a check mark drawing itself.</desc>
+<style>.pulse{animation:pulse 1.8s ease-out infinite}@keyframes pulse{from{transform:scale(1);opacity:.7}to{transform:scale(2.6);opacity:0}}.chk{stroke-dasharray:60;animation:chk 4s ease-in-out infinite}@keyframes chk{0%,15%{stroke-dashoffset:60}45%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:60}}.br{animation:br 4s ease-in-out infinite}@keyframes br{0%,15%,100%{opacity:.35}45%,85%{opacity:1}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="560" height="200" rx="18" fill="#1F1B4D"/>
+<g transform="translate(36 38)"><circle r="5" fill="#5CC8FF" class="pulse"/><circle r="5" fill="#5CC8FF"/></g>
+<text x="50" y="43" fill="#B9B4E8" font-family="ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600">live</text>
+<text x="28" y="142" fill="#F7F5FF" font-family="ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-.5">CodeProof</text>
+<text x="28" y="168" fill="#5CC8FF" font-family="ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600">code verification lab</text>
+<g transform="translate(360 24)"><rect width="176" height="152" rx="14" fill="#2B2670"/>
+<path d="M88 22l38 14v30c0 26-16 44-38 54-22-10-38-28-38-54V36z" fill="#1F1B4D" stroke="#5CC8FF" stroke-width="3" stroke-linejoin="round"/><path class="chk" d="M70 74l13 13 24-28" fill="none" stroke="#5CC8FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><g class="br" fill="none" stroke="#B9B4E8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M32 60L18 76l14 16"/><path d="M144 60l14 16-14 16"/></g>
+</g></svg>

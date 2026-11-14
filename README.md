@@ -1,84 +1,84 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/profile-banner-mobile.svg" />
-    <img src="./assets/profile-banner.svg" width="100%" alt="Raghav Raman — data systems, useful software, practical AI" />
+    <img src="./assets/profile-banner.svg" width="100%" alt="Hey, I’m Raghav Raman. I build ETL pipelines that stay healthy, browser tools that run locally, and retrieval systems with RAG and FAISS." />
   </picture>
 </div>
 
 <p align="center">
-  <strong>Senior Software Engineer at Capgemini</strong> · ETL and data integration<br />
-  Building dependable pipelines and tools that make complex data easier to use.
+  <a href="https://theraghavraman.github.io/the.raghav.raman/"><img src="./assets/cta-portfolio.svg" width="180" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/theraghavraman"><img src="./assets/cta-linkedin.svg" width="180" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://orcid.org/0009-0006-6026-0674"><img src="./assets/cta-orcid.svg" width="180" alt="ORCID" /></a>
 </p>
 
-<p align="center">
-  <a href="https://theraghavraman.github.io/the.raghav.raman/"><img src="./assets/cta-portfolio.svg" width="154" alt="Portfolio" /></a>&nbsp;
-  <a href="https://linkedin.com/in/theraghavraman"><img src="./assets/cta-linkedin.svg" width="154" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://orcid.org/0009-0006-6026-0674"><img src="./assets/cta-orcid.svg" width="154" alt="ORCID" /></a>
-</p>
+## What I do
 
----
+By day I’m a Senior Software Engineer at Capgemini, working on ETL and data integration. That covers everything from keeping scheduled loads healthy to designing SCD Type 1/2, file-processing and hierarchy-parsing pipelines. My everyday stack is Informatica IICS/IDMC, PowerCenter, SSIS, Azure Synapse, Oracle, DB2 and SQL.
 
-## About
+After hours I build things you can open in a browser tab: data tools, Python utilities, and retrieval systems with FastAPI, Pydantic, RAG and FAISS.
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
+## Things I’ve built
 
-I work on ETL and data integration, from keeping scheduled loads healthy to designing SCD Type 1/2, file-processing, and hierarchy-parsing pipelines. My day-to-day stack includes Informatica IICS/IDMC, PowerCenter, SSIS, Azure Synapse, Oracle, DB2, and SQL.
+Every card is a live app. Click one and play with it.
 
-Outside work, I build browser-based tools, Python data utilities, and retrieval systems with FastAPI, Pydantic, RAG, and FAISS.
-
-## Selected work
-
-<img src="./assets/section-rule.svg" width="100%" alt="" />
-
-### ETLGuard
-
-A Python data-quality toolkit for CSV, Excel and API feeds, with Pydantic validation, rejected-row reports, transactional MySQL loads, SCD Type 2 history and safe batch retries. The live browser demo runs the same validator through Pyodide.
-
-Verified with **137 tests**, **91.19% coverage**, and all four Python 3.11/3.13 × MySQL 8.0/8.4 combinations.
-
-<sub>Python · Pydantic · SQLAlchemy · MySQL · Pytest · Pyodide</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/etl-validation-toolkit) &nbsp;·&nbsp; [Live demo ↗](https://theraghavraman.github.io/etl-validation-toolkit/) &nbsp;·&nbsp; [v0.1.3 downloads ↗](https://github.com/theraghavraman/etl-validation-toolkit/releases/tag/v0.1.3)
-
-### ReData
-
-A browser-first analytics workspace powered by local DuckDB. It brings data from databases, S3, and REST APIs into staging tables with full, append, and upsert syncs.
-
-<sub>JavaScript · Python · DuckDB · SQL</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/redata) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/redata/) &nbsp;·&nbsp; [DOI ↗](https://doi.org/10.5281/zenodo.23314956)
-
-### CodeProof
-
-A local-first code verification lab for static checks, sandboxed test runs, Python grammar checks, SBOM generation, and supply-chain audits.
-
-<sub>JavaScript · TypeScript · Pyodide · GitHub Actions</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/codeproof) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/codeproof/)
-
-### OmniConverter Studio
-
-A private file and data toolkit for PDF, OCR, media, and format conversion in the browser, with optional local Python and desktop engines.
-
-<sub>JavaScript · Python · Electron</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/omni_suite_light) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/omni_suite_light/)
-
-### SPACE
-
-An interactive observatory for exploring space-mission datasets. <sub>JavaScript</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/space) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/space/)
-
-### Rust Atlas
-
-A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &nbsp;·&nbsp; [Source ↗](https://github.com/theraghavraman/rustatlas) &nbsp;·&nbsp; [Live app ↗](https://theraghavraman.github.io/rustatlas/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://theraghavraman.github.io/etl-validation-toolkit/"><img src="./assets/projects/etlguard.svg" width="100%" alt="ETLGuard, open the live app" /></a>
+      <p>A Python data-quality toolkit for CSV, Excel and API feeds. Pydantic validation, rejected-row reports, transactional MySQL loads, SCD Type 2 history and safe batch retries. The browser demo runs the same validator through Pyodide.<br /><br /><strong>137 tests</strong>, <strong>91.19% coverage</strong>, green on Python 3.11/3.13 × MySQL 8.0/8.4.</p>
+      <p><sub>Python, Pydantic, SQLAlchemy, MySQL, Pytest, Pyodide</sub></p>
+      <p><a href="https://theraghavraman.github.io/etl-validation-toolkit/">Try the demo</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit">Source</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit/releases/tag/v0.1.3">v0.1.3</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://theraghavraman.github.io/redata/"><img src="./assets/projects/redata.svg" width="100%" alt="ReData, open the live app" /></a>
+      <p>A browser-first analytics workspace powered by local DuckDB. It pulls data from databases, S3 and REST APIs into staging tables with full, append and upsert syncs.</p>
+      <p><sub>JavaScript, Python, DuckDB, SQL</sub></p>
+      <p><a href="https://theraghavraman.github.io/redata/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/redata">Source</a> &nbsp;|&nbsp; <a href="https://doi.org/10.5281/zenodo.23314956">DOI</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://theraghavraman.github.io/codeproof/"><img src="./assets/projects/codeproof.svg" width="100%" alt="CodeProof, open the live app" /></a>
+      <p>A local-first code verification lab: static checks, sandboxed test runs, Python grammar checks, SBOM generation and supply-chain audits.</p>
+      <p><sub>JavaScript, TypeScript, Pyodide, GitHub Actions</sub></p>
+      <p><a href="https://theraghavraman.github.io/codeproof/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/codeproof">Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://theraghavraman.github.io/omni_suite_light/"><img src="./assets/projects/omniconverter.svg" width="100%" alt="OmniConverter Studio, open the live app" /></a>
+      <p>A private file and data toolkit for PDF, OCR, media and format conversion in the browser, with optional local Python and desktop engines.</p>
+      <p><sub>JavaScript, Python, Electron</sub></p>
+      <p><a href="https://theraghavraman.github.io/omni_suite_light/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/omni_suite_light">Source</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://theraghavraman.github.io/space/"><img src="./assets/projects/space.svg" width="100%" alt="SPACE, open the live app" /></a>
+      <p>An interactive observatory for exploring space-mission datasets.</p>
+      <p><sub>JavaScript</sub></p>
+      <p><a href="https://theraghavraman.github.io/space/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/space">Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://theraghavraman.github.io/rustatlas/"><img src="./assets/projects/rustatlas.svg" width="100%" alt="Rust Atlas, open the live app" /></a>
+      <p>A visual, concept-first guide to learning Rust.</p>
+      <p><sub>HTML, JavaScript</sub></p>
+      <p><a href="https://theraghavraman.github.io/rustatlas/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/rustatlas">Source</a></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-  <summary><strong>More things I've built</strong></summary>
+  <summary><strong>Still curious? Five more to poke at</strong></summary>
   <br />
   <ul>
-    <li><a href="https://theraghavraman.github.io/mindgames/">Mind Games</a> — Sudoku variants, logic puzzles, and brain games (<a href="https://github.com/theraghavraman/mindgames">source</a>)</li>
-    <li><a href="https://theraghavraman.github.io/sandbox/">Redmark Forge Sandbox</a> — steganography and data encoding (<a href="https://github.com/theraghavraman/sandbox">source</a>)</li>
-    <li><a href="https://theraghavraman.github.io/periodic_tabularasa/">TabulaRasa</a> — an interactive periodic table (<a href="https://github.com/theraghavraman/periodic_tabularasa">source</a>)</li>
-    <li><a href="https://theraghavraman.github.io/philosophy-quote-visualizer/">PHILOGRAPH</a> — a philosophy quote visualizer (<a href="https://github.com/theraghavraman/philosophy-quote-visualizer">source</a>)</li>
-    <li><a href="https://theraghavraman.github.io/princeofparadox/">Prince of Paradox</a> — a thought engine (<a href="https://github.com/theraghavraman/princeofparadox">source</a>)</li>
+    <li><a href="https://theraghavraman.github.io/mindgames/">Mind Games</a>: Sudoku variants, logic puzzles and brain games (<a href="https://github.com/theraghavraman/mindgames">source</a>)</li>
+    <li><a href="https://theraghavraman.github.io/sandbox/">Redmark Forge Sandbox</a>: steganography and data encoding (<a href="https://github.com/theraghavraman/sandbox">source</a>)</li>
+    <li><a href="https://theraghavraman.github.io/periodic_tabularasa/">TabulaRasa</a>: an interactive periodic table (<a href="https://github.com/theraghavraman/periodic_tabularasa">source</a>)</li>
+    <li><a href="https://theraghavraman.github.io/philosophy-quote-visualizer/">PHILOGRAPH</a>: a philosophy quote visualizer (<a href="https://github.com/theraghavraman/philosophy-quote-visualizer">source</a>)</li>
+    <li><a href="https://theraghavraman.github.io/princeofparadox/">Prince of Paradox</a>: a thought engine (<a href="https://github.com/theraghavraman/princeofparadox">source</a>)</li>
   </ul>
 </details>
 
-## Toolbox
-
-<img src="./assets/section-rule.svg" width="100%" alt="" />
+## What I reach for
 
 <p><strong>Data engineering</strong></p>
 
@@ -107,7 +107,7 @@ A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &n
   </tr>
 </table>
 
-<p><strong>Python & AI</strong></p>
+<p><strong>Python and AI</strong></p>
 
 <table>
   <tr>
@@ -120,7 +120,7 @@ A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &n
   </tr>
 </table>
 
-<p><strong>Cloud & delivery</strong></p>
+<p><strong>Cloud and delivery</strong></p>
 
 <table>
   <tr>
@@ -134,10 +134,17 @@ A visual, concept-first guide to learning Rust. <sub>HTML · JavaScript</sub> &n
   </tr>
 </table>
 
-## Credentials
+## Certifications
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
+- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+- Informatica IDMC Foundation
+- Databricks Generative AI Fundamentals
+- Google Advanced Data Analytics
+- AWS Cloud Quest: Cloud Practitioner
+- Snowflake Data Warehousing Workshop
+- Confluent Fundamentals: Apache Kafka
 
-- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional · Informatica IDMC Foundation
-- Databricks Generative AI Fundamentals · Google Advanced Data Analytics · AWS Cloud Quest: Cloud Practitioner
-- Snowflake Data Warehousing Workshop · Confluent Fundamentals: Apache Kafka
+<p align="center">
+  <br />
+  Got a data problem or an idea worth building? <a href="https://linkedin.com/in/theraghavraman">Say hi on LinkedIn.</a>
+</p>

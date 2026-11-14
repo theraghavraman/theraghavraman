@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-banner-mobile.svg" />
-    <img src="./assets/profile-banner.svg" width="100%" alt="Hey, I’m Raghav Raman. I build ETL pipelines that stay healthy, browser tools that run locally, and a document retrieval system built with RAG and FAISS." />
+    <source media="(max-width: 640px)" srcset="./assets/profile-banner-mobile.svg?v=20261114-2" />
+    <img src="./assets/profile-banner.svg?v=20261114-2" width="100%" alt="Hey, I’m Raghav Raman. I build ETL pipelines that stay healthy, browser tools that run locally, and a document retrieval system built with RAG and FAISS." />
   </picture>
 </div>
 

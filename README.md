@@ -143,6 +143,8 @@ A FastAPI service that ingests documents and indexes their chunks with FAISS. It
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Informatica IDMC Foundation
 
+**Badges:** Snowflake Data Warehousing Workshop · Databricks Generative AI Fundamentals · Confluent Fundamentals: Apache Kafka
+
 Credentials are on [Credly](https://www.credly.com/users/raghav-raman/), and the full list is on my [portfolio](https://theraghavraman.github.io/the_raghav_raman/#certifications).
 
 <p align="center">

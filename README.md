@@ -31,8 +31,8 @@ The cards below link to live demos and source. The document Q&A system below the
     </td>
     <td width="50%" valign="top">
       <a href="https://theraghavraman.github.io/redata/"><img src="./assets/projects/redata.svg" width="100%" alt="ReData, open the live app" /></a>
-      <p>A browser-first analytics workspace powered by local DuckDB. It pulls data from databases, S3 and REST APIs into staging tables with full, append and upsert syncs.</p>
-      <p><sub>JavaScript, Python, DuckDB, SQL</sub></p>
+      <p>A data-ingestion engine on DuckDB. Full, append and upsert syncs from Postgres, MySQL, SQL Server, Snowflake, S3 and REST APIs, with saved cursor state, schema-drift handling, a CLI and a FastAPI API. A browser workspace on top profiles, queries and charts the staged tables.</p>
+      <p><sub>Python, DuckDB, Apache Arrow, FastAPI, JavaScript</sub></p>
       <p><a href="https://theraghavraman.github.io/redata/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/redata">Source</a></p>
     </td>
   </tr>
@@ -48,6 +48,7 @@ The cards below link to live demos and source. The document Q&A system below the
       <p>A private file and data toolkit for PDF, OCR, media and format conversion in the browser, with optional local Python and desktop engines.</p>
       <p><sub>JavaScript, Python, Electron</sub></p>
       <p><a href="https://theraghavraman.github.io/omni_suite_light/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/omni_suite_light">Source</a></p>
+      <p>Published as a <a href="https://github.com/theraghavraman/omni_suite_light/pkgs/container/omni_suite_light">container image on GHCR</a> and the <a href="https://github.com/theraghavraman/omni_suite_light/pkgs/npm/omni-universal-data-studio">omni-universal-data-studio npm package</a>.</p>
     </td>
   </tr>
   <tr>
@@ -141,11 +142,12 @@ A FastAPI service that ingests documents and indexes their chunks with FAISS. It
 
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Informatica IDMC Foundation
-- Databricks Generative AI Fundamentals
-- Google Advanced Data Analytics
-- AWS Cloud Quest: Cloud Practitioner
-- Snowflake Data Warehousing Workshop
-- Confluent Fundamentals: Apache Kafka
+- Informatica Cloud Data Integration for PowerCenter Developers
+- [AMD ROCm Certified Associate](https://www.credly.com/badges/a0c24ee3-758a-4e4f-b839-33b099bc0453)
+
+**Badges:** [Snowflake Data Engineering Workshop](https://achieve.snowflake.com/51a57e43-9045-4529-b291-dee980e4e4f9) · Snowflake Data Warehousing Workshop · [Confluent Fundamentals: Apache Kafka](https://certificates.confluent.io/7b0ab75d-5915-42f3-9eae-5d4afda53517) · [Palantir Foundry & AIP Builder Foundations](https://verify.skilljar.com/c/fxbu5t5dev6j) · [Claude Partner Badge: Claude Code](https://www.credly.com/badges/91eb1ece-f467-489d-ad9b-46431fe68bab)
+
+Credentials are on [Credly](https://www.credly.com/users/raghav-raman/), and the full list is on my [portfolio](https://theraghavraman.github.io/the_raghav_raman/#certifications).
 
 <p align="center">
   <br />

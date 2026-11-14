@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/profile-banner-mobile.svg" />
-    <img src="./assets/profile-banner.svg" width="100%" alt="Hey, I’m Raghav Raman. I build ETL pipelines that stay healthy, browser tools that run locally, and retrieval systems with RAG and FAISS." />
+    <img src="./assets/profile-banner.svg" width="100%" alt="Hey, I’m Raghav Raman. I build ETL pipelines that stay healthy, browser tools that run locally, and a document retrieval system built with RAG and FAISS." />
   </picture>
 </div>
 
@@ -13,27 +13,27 @@
 
 ## What I do
 
-By day I’m a Senior Software Engineer at Capgemini, working on ETL and data integration. That covers everything from keeping scheduled loads healthy to designing SCD Type 1/2, file-processing and hierarchy-parsing pipelines. My everyday stack is Informatica IICS/IDMC, PowerCenter, SSIS, Azure Synapse, Oracle, DB2 and SQL.
+I’m a Senior Software Engineer in data engineering at Capgemini, working on ETL and data integration. That covers everything from keeping scheduled loads healthy to designing SCD Type 1/2, file-processing and hierarchy-parsing pipelines. My everyday stack is Informatica IICS/IDMC, PowerCenter, SSIS, Azure Synapse, Oracle, DB2 and SQL.
 
-After hours I build things you can open in a browser tab: data tools, Python utilities, and retrieval systems with FastAPI, Pydantic, RAG and FAISS.
+After hours I build browser-based data tools and Python services, including a document Q&A system using FastAPI, LangChain, RAG and FAISS.
 
 ## Things I’ve built
 
-Every card is a live app. Click one and play with it.
+The cards below link to live demos and source. The document Q&A system below them is source available, with local setup instructions.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://theraghavraman.github.io/etl-validation-toolkit/"><img src="./assets/projects/etlguard.svg" width="100%" alt="ETLGuard, open the live app" /></a>
-      <p>A Python data-quality toolkit for CSV, Excel and API feeds. Pydantic validation, rejected-row reports, transactional MySQL loads, SCD Type 2 history and safe batch retries. The browser demo runs the same validator through Pyodide.<br /><br /><strong>137 tests</strong>, <strong>91.19% coverage</strong>, green on Python 3.11/3.13 × MySQL 8.0/8.4.</p>
+      <p>A Python data-quality toolkit for CSV, Excel and API feeds. Pydantic validation, rejected-row reports, transactional MySQL loads, SCD Type 2 history and safe batch retries. The browser demo runs the same validator through Pyodide.<br /><br />See the repository’s CI and release notes for current test and compatibility results.</p>
       <p><sub>Python, Pydantic, SQLAlchemy, MySQL, Pytest, Pyodide</sub></p>
-      <p><a href="https://theraghavraman.github.io/etl-validation-toolkit/">Try the demo</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit">Source</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit/releases/tag/v0.1.3">v0.1.3</a></p>
+      <p><a href="https://theraghavraman.github.io/etl-validation-toolkit/">Try the demo</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit">Source</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit/releases/latest">Latest release</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://theraghavraman.github.io/redata/"><img src="./assets/projects/redata.svg" width="100%" alt="ReData, open the live app" /></a>
       <p>A browser-first analytics workspace powered by local DuckDB. It pulls data from databases, S3 and REST APIs into staging tables with full, append and upsert syncs.</p>
       <p><sub>JavaScript, Python, DuckDB, SQL</sub></p>
-      <p><a href="https://theraghavraman.github.io/redata/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/redata">Source</a> &nbsp;|&nbsp; <a href="https://doi.org/10.5281/zenodo.23314956">DOI</a></p>
+      <p><a href="https://theraghavraman.github.io/redata/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/redata">Source</a></p>
     </td>
   </tr>
   <tr>
@@ -65,6 +65,10 @@ Every card is a live app. Click one and play with it.
     </td>
   </tr>
 </table>
+
+### Document retrieval: RAG Document Q&A
+
+A FastAPI service that ingests documents and indexes their chunks with FAISS. Its retrieval code combines vector search with BM25 and returns source identifiers for cited answers. The [source](https://github.com/theraghavraman/rag-document-qa-production), [retrieval implementation](https://github.com/theraghavraman/rag-document-qa-production/blob/main/app/vector_index.py), and [local setup](https://github.com/theraghavraman/rag-document-qa-production#start-a-local-demo) are public. Its README states that live external-service integration and load testing have not yet been verified.
 
 <details>
   <summary><strong>Still curious? Four more to poke at</strong></summary>

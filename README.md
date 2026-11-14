@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://theraghavraman.github.io/the.raghav.raman/"><img src="./assets/cta-portfolio.svg" width="180" alt="Portfolio" /></a>&nbsp;
+  <a href="https://theraghavraman.github.io/the_raghav_raman/"><img src="./assets/cta-portfolio.svg" width="180" alt="Portfolio" /></a>&nbsp;
   <a href="https://linkedin.com/in/theraghavraman"><img src="./assets/cta-linkedin.svg" width="180" alt="LinkedIn" /></a>&nbsp;
   <a href="https://orcid.org/0009-0006-6026-0674"><img src="./assets/cta-orcid.svg" width="180" alt="ORCID" /></a>
 </p>

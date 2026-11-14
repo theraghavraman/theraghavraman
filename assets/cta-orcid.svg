@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="180" height="48" viewBox="0 0 180 48" role="img" aria-label="ORCID">
 <style>.a{animation:n 1.4s ease-in-out 0.6s infinite alternate}@keyframes n{to{transform:translate(4px,-4px)}}@media (prefers-reduced-motion:reduce){.a{animation:none}}</style>
-<rect width="180" height="48" rx="24" fill="#1F1B4D"/>
-<text x="26" y="30" fill="#F7F5FF" font-family="ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700">ORCID</text>
+<rect width="180" height="48" rx="24" fill="#ECEAFF"/>
+<text x="26" y="30" fill="#1F1B4D" font-family="ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700">ORCID</text>
 <path class="a" d="M138 31l12-12m-9 0h9v9" fill="none" stroke="#3DDC97" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

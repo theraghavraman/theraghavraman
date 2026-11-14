@@ -58,19 +58,18 @@ Every card is a live app. Click one and play with it.
       <p><a href="https://theraghavraman.github.io/space/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/space">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://theraghavraman.github.io/rustatlas/"><img src="./assets/projects/rustatlas.svg" width="100%" alt="Rust Atlas, open the live app" /></a>
-      <p>A visual, concept-first guide to learning Rust.</p>
-      <p><sub>HTML, JavaScript</sub></p>
-      <p><a href="https://theraghavraman.github.io/rustatlas/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/rustatlas">Source</a></p>
+      <a href="https://theraghavraman.github.io/mindgames/"><img src="./assets/projects/mindgames.svg" width="100%" alt="Mind Games, open the live app" /></a>
+      <p>Sudoku variants, logic puzzles and brain games in the browser.</p>
+      <p><sub>HTML, JavaScript, CSS</sub></p>
+      <p><a href="https://theraghavraman.github.io/mindgames/">Open the app</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/mindgames">Source</a></p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><strong>Still curious? Five more to poke at</strong></summary>
+  <summary><strong>Still curious? Four more to poke at</strong></summary>
   <br />
   <ul>
-    <li><a href="https://theraghavraman.github.io/mindgames/">Mind Games</a>: Sudoku variants, logic puzzles and brain games (<a href="https://github.com/theraghavraman/mindgames">source</a>)</li>
     <li><a href="https://theraghavraman.github.io/sandbox/">Redmark Forge Sandbox</a>: steganography and data encoding (<a href="https://github.com/theraghavraman/sandbox">source</a>)</li>
     <li><a href="https://theraghavraman.github.io/periodic_tabularasa/">TabulaRasa</a>: an interactive periodic table (<a href="https://github.com/theraghavraman/periodic_tabularasa">source</a>)</li>
     <li><a href="https://theraghavraman.github.io/philosophy-quote-visualizer/">PHILOGRAPH</a>: a philosophy quote visualizer (<a href="https://github.com/theraghavraman/philosophy-quote-visualizer">source</a>)</li>

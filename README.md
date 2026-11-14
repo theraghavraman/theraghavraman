@@ -27,7 +27,7 @@ The cards below link to live demos and source. The document Q&A system below the
       <a href="https://theraghavraman.github.io/etl-validation-toolkit/"><img src="./assets/projects/etlguard.svg" width="100%" alt="ETLGuard, open the live app" /></a>
       <p>A Python data-quality toolkit for CSV, Excel and API feeds. Pydantic validation, rejected-row reports, transactional MySQL loads, SCD Type 2 history and safe batch retries. The browser demo runs the same validator through Pyodide.<br /><br />See the repository’s CI and release notes for current test and compatibility results.</p>
       <p><sub>Python, Pydantic, SQLAlchemy, MySQL, Pytest, Pyodide</sub></p>
-      <p><a href="https://theraghavraman.github.io/etl-validation-toolkit/">Try the demo</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit">Source</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit/releases/latest">Latest release</a></p>
+      <p><a href="https://theraghavraman.github.io/etl-validation-toolkit/">Try the demo</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit">Source</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit/blob/main/docs/design-decisions.md">Design decisions</a> &nbsp;|&nbsp; <a href="https://github.com/theraghavraman/etl-validation-toolkit/releases/latest">Latest release</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://theraghavraman.github.io/redata/"><img src="./assets/projects/redata.svg" width="100%" alt="ReData, open the live app" /></a>

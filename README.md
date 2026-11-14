@@ -142,8 +142,10 @@ A FastAPI service that ingests documents and indexes their chunks with FAISS. It
 
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Informatica IDMC Foundation
+- Informatica Cloud Data Integration for PowerCenter Developers
+- [AMD ROCm Certified Associate](https://www.credly.com/badges/a0c24ee3-758a-4e4f-b839-33b099bc0453)
 
-**Badges:** Snowflake Data Warehousing Workshop · Databricks Generative AI Fundamentals · Confluent Fundamentals: Apache Kafka · Claude Partner Badge: Claude Code
+**Badges:** [Snowflake Data Engineering Workshop](https://achieve.snowflake.com/51a57e43-9045-4529-b291-dee980e4e4f9) · Snowflake Data Warehousing Workshop · [Confluent Fundamentals: Apache Kafka](https://certificates.confluent.io/7b0ab75d-5915-42f3-9eae-5d4afda53517) · [Palantir Foundry & AIP Builder Foundations](https://verify.skilljar.com/c/fxbu5t5dev6j) · [Claude Partner Badge: Claude Code](https://www.credly.com/badges/91eb1ece-f467-489d-ad9b-46431fe68bab)
 
 Credentials are on [Credly](https://www.credly.com/users/raghav-raman/), and the full list is on my [portfolio](https://theraghavraman.github.io/the_raghav_raman/#certifications).
 
